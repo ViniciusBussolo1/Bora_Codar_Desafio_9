@@ -1,5 +1,5 @@
-# Bora_Codar_Desafio_7
-Desafio #boraCodar da Rocketseat - 07.
+# Bora_Codar_Desafio_9
+Desafio #boraCodar da Rocketseat - 09.
 
 
 ## 💻 Projeto
@@ -23,7 +23,7 @@ Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
 $ git clone https://github.com/ViniciusBussolo1/Bora_Codar_Desafio_9.git
-$ cd Desafio_07
+$ cd Bora_Codar_Desafio_9
 ```
 
 Para iniciá-lo, siga os passos abaixo:
